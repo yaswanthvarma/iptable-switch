@@ -1,6 +1,7 @@
 # iptable-switch
 
 **Before switch:**  Sender ---> Router ----> App1(192.168.1.12:2020)
+
 **After switch :**  Sender ---> Router ----> App2(192.168.1.13:2021)
 
 
