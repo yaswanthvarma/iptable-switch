@@ -5,6 +5,7 @@
 **After switch :**  Sender ---> Router ----> App2(192.168.1.13:2021)
 
 
+
 **on App1**   : nc -l -p 2020
 
 
